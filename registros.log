@@ -1,0 +1,31 @@
+11:36:41 AM  DEBUG Loggin.py 20 Esto es una prueba
+03:27:46 PM  DEBUG usuarioDTO.py 100 User ID -> 23
+03:27:46 PM  DEBUG usuarioDTO.py 101 Cambiando el ID ...
+03:27:46 PM  DEBUG usuarioDTO.py 107  userName -> Prueba1 
+03:27:46 PM  DEBUG usuarioDTO.py 108 Cambiando el valor de userName ...
+03:27:46 PM  DEBUG usuarioDTO.py 114 email -> ejemplo1@mail.com
+03:27:46 PM  DEBUG usuarioDTO.py 115 Cambiando el valor d email ...
+03:27:46 PM  DEBUG usuarioDTO.py 121 password -> 1234
+03:27:46 PM  DEBUG usuarioDTO.py 122 Cambiando el valor de password ...
+03:27:46 PM  DEBUG usuarioDTO.py 128 
+                OBJETO USUARIO CREDO EXITOSAMENTE
+            user id :: 30
+            user name :: elMataSuegrasSengan
+            email :: elMataSuegrasSengan
+            password :: 5678
+        
+03:28:43 PM  DEBUG usuarioDTO.py 100 User ID -> 23
+03:28:43 PM  DEBUG usuarioDTO.py 101 Cambiando el ID ...
+03:28:43 PM  DEBUG usuarioDTO.py 107  userName -> Prueba1 
+03:28:43 PM  DEBUG usuarioDTO.py 108 Cambiando el valor de userName ...
+03:28:43 PM  DEBUG usuarioDTO.py 114 email -> ejemplo1@mail.com
+03:28:43 PM  DEBUG usuarioDTO.py 115 Cambiando el valor d email ...
+03:28:43 PM  DEBUG usuarioDTO.py 121 password -> 1234
+03:28:43 PM  DEBUG usuarioDTO.py 122 Cambiando el valor de password ...
+03:28:43 PM  DEBUG usuarioDTO.py 128 
+                OBJETO USUARIO CREDO EXITOSAMENTE
+            user id :: 30
+            user name :: elMataSuegrasSengan
+            email :: elMataSuegrasSengan@naruto.kun
+            password :: 5678
+        
