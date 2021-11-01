@@ -29,3 +29,126 @@
             email :: elMataSuegrasSengan@naruto.kun
             password :: 5678
         
+03:53:07 PM  DEBUG usuarioDTO.py 100 User ID -> 23
+03:53:07 PM  DEBUG usuarioDTO.py 101 Cambiando el ID ...
+03:53:07 PM  DEBUG usuarioDTO.py 107  userName -> Prueba1 
+03:53:07 PM  DEBUG usuarioDTO.py 108 Cambiando el valor de userName ...
+03:53:07 PM  DEBUG usuarioDTO.py 114 email -> ejemplo1@mail.com
+03:53:07 PM  DEBUG usuarioDTO.py 115 Cambiando el valor d email ...
+03:53:07 PM  DEBUG usuarioDTO.py 121 password -> 1234
+03:53:07 PM  DEBUG usuarioDTO.py 122 Cambiando el valor de password ...
+03:53:07 PM  DEBUG usuarioDTO.py 128 
+                OBJETO USUARIO CREDO EXITOSAMENTE
+            user id :: 30
+            user name :: elMataSuegrasSengan
+            email :: elMataSuegrasSengan@naruto.kun
+            password :: 5678
+        
+04:09:53 PM  DEBUG Conexion_Pool.py 48 
+                                EL OBJETO POOL FUE CREADO EXITOSAMENTE
+                    --------------------Descripcion del objeto------------------
+                    OBJETO --> <psycopg2.pool.SimpleConnectionPool object at 0x000001AADF157CA0>
+
+                    TIPO --> <class 'psycopg2.pool.SimpleConnectionPool'>
+                
+04:12:09 PM  DEBUG Conexion_Pool.py 48 
+                                EL OBJETO POOL FUE CREADO EXITOSAMENTE
+                    --------------------Descripcion del objeto------------------
+                    OBJETO --> <psycopg2.pool.SimpleConnectionPool object at 0x00000245F2447D90>
+
+                    TIPO --> <class 'psycopg2.pool.SimpleConnectionPool'>
+                
+04:12:09 PM  DEBUG Conexion_Pool.py 68 Devolviendo el objeto Pool ya creado
+04:12:09 PM  DEBUG Conexion_Pool.py 81 
+                        OBJETO CONEXION CREADO EXITOSAMENTE
+            --------------------Descripcion del objeto---------------------
+            OBJETO --> <connection object at 0x00000245F277EBF0; dsn: 'user=postgres password=xxx dbname=usuarios host=127.0.0.1 port=5432', closed: 0>
+            TIPO --> <class 'psycopg2.extensions.connection'>
+        
+04:13:27 PM  DEBUG Conexion_Pool.py 48 
+                                EL OBJETO POOL FUE CREADO EXITOSAMENTE
+                    --------------------Descripcion del objeto------------------
+                    OBJETO --> <psycopg2.pool.SimpleConnectionPool object at 0x00000185AD89BFA0>
+
+                    TIPO --> <class 'psycopg2.pool.SimpleConnectionPool'>
+                
+04:13:27 PM  INFO Conexion_Pool.py 99 Objeto pool obtenido -> <psycopg2.pool.SimpleConnectionPool object at 0x00000185AD89BFA0>
+04:13:27 PM  DEBUG Conexion_Pool.py 68 Devolviendo el objeto Pool ya creado
+04:13:27 PM  DEBUG Conexion_Pool.py 81 
+                        OBJETO CONEXION CREADO EXITOSAMENTE
+            --------------------Descripcion del objeto---------------------
+            OBJETO --> <connection object at 0x00000185ADBBFBF0; dsn: 'user=postgres password=xxx dbname=usuarios host=127.0.0.1 port=5432', closed: 0>
+            TIPO --> <class 'psycopg2.extensions.connection'>
+        
+04:13:27 PM  INFO Conexion_Pool.py 105 Objeto conexion obtenido -> <connection object at 0x00000185ADBBFBF0; dsn: 'user=postgres password=xxx dbname=usuarios host=127.0.0.1 port=5432', closed: 0>
+04:16:13 PM  DEBUG Conexion_Pool.py 48 
+                                EL OBJETO POOL FUE CREADO EXITOSAMENTE
+                    --------------------Descripcion del objeto------------------
+                    OBJETO --> <psycopg2.pool.SimpleConnectionPool object at 0x0000021D5E02BF70>
+
+                    TIPO --> <class 'psycopg2.pool.SimpleConnectionPool'>
+                
+04:16:13 PM  INFO Conexion_Pool.py 113 Objeto pool obtenido -> <psycopg2.pool.SimpleConnectionPool object at 0x0000021D5E02BF70>
+04:16:13 PM  DEBUG Conexion_Pool.py 68 Devolviendo el objeto Pool ya creado
+04:16:13 PM  DEBUG Conexion_Pool.py 81 
+                        OBJETO CONEXION CREADO EXITOSAMENTE
+            --------------------Descripcion del objeto---------------------
+            OBJETO --> <connection object at 0x0000021D5E350BF0; dsn: 'user=postgres password=xxx dbname=usuarios host=127.0.0.1 port=5432', closed: 0>
+            TIPO --> <class 'psycopg2.extensions.connection'>
+        
+04:16:13 PM  INFO Conexion_Pool.py 119 Objeto conexion obtenido -> <connection object at 0x0000021D5E350BF0; dsn: 'user=postgres password=xxx dbname=usuarios host=127.0.0.1 port=5432', closed: 0>
+04:16:13 PM  DEBUG Conexion_Pool.py 68 Devolviendo el objeto Pool ya creado
+04:16:13 PM  DEBUG Conexion_Pool.py 99 
+                    OBJETO CONEXION CERRADO EXITOSAMENTE
+            Objeto: <connection object at 0x0000021D5E350BF0; dsn: 'user=postgres password=xxx dbname=usuarios host=127.0.0.1 port=5432', closed: 0>
+        
+04:18:34 PM  DEBUG Conexion_Pool.py 48 
+                                EL OBJETO POOL FUE CREADO EXITOSAMENTE
+                    --------------------Descripcion del objeto------------------
+                    OBJETO --> <psycopg2.pool.SimpleConnectionPool object at 0x0000019AD71EBF10>
+
+                    TIPO --> <class 'psycopg2.pool.SimpleConnectionPool'>
+                
+04:18:34 PM  INFO Conexion_Pool.py 125 Objeto pool obtenido -> <psycopg2.pool.SimpleConnectionPool object at 0x0000019AD71EBF10>
+04:18:34 PM  DEBUG Conexion_Pool.py 68 Devolviendo el objeto Pool ya creado
+04:18:34 PM  DEBUG Conexion_Pool.py 81 
+                        OBJETO CONEXION CREADO EXITOSAMENTE
+            --------------------Descripcion del objeto---------------------
+            OBJETO --> <connection object at 0x0000019AD750FBF0; dsn: 'user=postgres password=xxx dbname=usuarios host=127.0.0.1 port=5432', closed: 0>
+            TIPO --> <class 'psycopg2.extensions.connection'>
+        
+04:18:34 PM  INFO Conexion_Pool.py 131 Objeto conexion obtenido -> <connection object at 0x0000019AD750FBF0; dsn: 'user=postgres password=xxx dbname=usuarios host=127.0.0.1 port=5432', closed: 0>
+04:18:34 PM  DEBUG Conexion_Pool.py 68 Devolviendo el objeto Pool ya creado
+04:18:34 PM  DEBUG Conexion_Pool.py 99 
+                    OBJETO CONEXION CERRADO EXITOSAMENTE
+            Objeto: <connection object at 0x0000019AD750FBF0; dsn: 'user=postgres password=xxx dbname=usuarios host=127.0.0.1 port=5432', closed: 0>
+        
+04:18:34 PM  DEBUG Conexion_Pool.py 68 Devolviendo el objeto Pool ya creado
+04:18:34 PM  DEBUG Conexion_Pool.py 112 
+            EL OBJETO DE TIPO POOL FUE CERRADO DE MANERA EXITOSA
+        
+04:22:54 PM  DEBUG Conexion_Pool.py 55 
+                                EL OBJETO POOL FUE CREADO EXITOSAMENTE
+                    --------------------Descripcion del objeto------------------
+                    OBJETO --> <psycopg2.pool.SimpleConnectionPool object at 0x000001CE7D66BF10>
+
+                    TIPO --> <class 'psycopg2.pool.SimpleConnectionPool'>
+                
+04:22:54 PM  INFO Conexion_Pool.py 132 Objeto pool obtenido -> <psycopg2.pool.SimpleConnectionPool object at 0x000001CE7D66BF10>
+04:22:54 PM  DEBUG Conexion_Pool.py 75 Devolviendo el objeto Pool ya creado
+04:22:54 PM  DEBUG Conexion_Pool.py 88 
+                        OBJETO CONEXION CREADO EXITOSAMENTE
+            --------------------Descripcion del objeto---------------------
+            OBJETO --> <connection object at 0x000001CE7D98FBF0; dsn: 'user=postgres password=xxx dbname=usuarios host=127.0.0.1 port=5432', closed: 0>
+            TIPO --> <class 'psycopg2.extensions.connection'>
+        
+04:22:54 PM  INFO Conexion_Pool.py 138 Objeto conexion obtenido -> <connection object at 0x000001CE7D98FBF0; dsn: 'user=postgres password=xxx dbname=usuarios host=127.0.0.1 port=5432', closed: 0>
+04:22:54 PM  DEBUG Conexion_Pool.py 75 Devolviendo el objeto Pool ya creado
+04:22:54 PM  DEBUG Conexion_Pool.py 106 
+                    OBJETO CONEXION CERRADO EXITOSAMENTE
+            Objeto: <connection object at 0x000001CE7D98FBF0; dsn: 'user=postgres password=xxx dbname=usuarios host=127.0.0.1 port=5432', closed: 0>
+        
+04:22:54 PM  DEBUG Conexion_Pool.py 75 Devolviendo el objeto Pool ya creado
+04:22:54 PM  DEBUG Conexion_Pool.py 119 
+            EL OBJETO DE TIPO POOL FUE CERRADO DE MANERA EXITOSA
+        
