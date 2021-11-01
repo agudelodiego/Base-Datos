@@ -1,3 +1,8 @@
+'''
+REALIZADO POR: Diego Alexander Agudelo Garcia
+DESCRIPCION: El presente archivo fue creado con el objeto de administrar la conbexion al pool de conexion, y asi mismo solitar una conexion y un cursor
+'''
+
 #------------------Importamos los modulos necesarios------------------
 import psycopg2
 from psycopg2 import pool
