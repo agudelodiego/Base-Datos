@@ -7,7 +7,7 @@ import logging as log
 #------------------CONFIGURACION DEL OBJETO LOG------------------------
 log.basicConfig(
     format='%(asctime)s %(levelname)s %(filename)s %(lineno)s %(message)s',
-    level=log.DEBUG,
+    level=log.INFO,
     datefmt='%I:%M:%S %p ',
     handlers=[
         log.FileHandler('Proyectos/Proyecto3/registros.log'),

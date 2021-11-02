@@ -77,7 +77,6 @@ class usuario_DTO:
     #--------------------------Metodo str---------------------------
     def __str__(self):
         sms = f'''
-                OBJETO USUARIO CREDO EXITOSAMENTE
             user id :: {self._userID}
             user name :: {self._userName}
             email :: {self._email}
